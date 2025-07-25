@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain-groq
+langchain
+python-dotenv
+requests
+pydub
+elevenlabs
+freesound-python
+huggingface_hub
+Pillow
+freesound-api
